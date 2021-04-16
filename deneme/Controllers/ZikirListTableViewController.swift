@@ -34,7 +34,7 @@ class ZikirListTableViewController: UIViewController, UITableViewDelegate, UITab
         tableView.dataSource = self
         
         getDataFromFirestore()
-        
+        print("adfsdfsdfsdfs")
         
         
     }
